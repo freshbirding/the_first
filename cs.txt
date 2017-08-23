@@ -1,0 +1,1 @@
+I want to know if it need write git remote add origin git@github.com:freshbirding/the_first
